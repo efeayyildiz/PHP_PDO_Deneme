@@ -8,4 +8,4 @@ MySQLi degil PDO yu deneme nedenim daha hizli ve farkli database yapilarini dest
 -Ornegin PostgreSQL  farkli farkli DB leri desteklemeyip hizli calismasi.
 
 
-![PDO Destekledigi Databaseler](https://www.yucelalkan.com/uploads/28_php_pdo_veritabanlari.png)
+![PDO Destekledigi Databaseler](https://www.imgoinglive.com/article_images/PDO.jpg)
