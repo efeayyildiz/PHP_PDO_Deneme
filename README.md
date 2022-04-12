@@ -2,8 +2,10 @@
 
 ## MySQL Database (Framework kullanilmamistir.)
 
-*Kitap Ekleyip bunu bir table dan goruntuleyebileceginiz mini bir database denemesidir.
-*Kisisel gelisim icin yapilmistir. MySQL database i (Navicat Programinda) olusturdum.
-*MySQLi degil PDO yu deneme nedenim daha hizli ve farkli database yapilarini desteklemesi..
+Kitap Ekleyip bunu bir table dan goruntuleyebileceginiz mini bir database denemesidir.
+Kisisel gelisim icin yapilmistir. MySQL database i (Navicat Programinda) olusturdum.
+MySQLi degil PDO yu deneme nedenim daha hizli ve farkli database yapilarini desteklemesi..
 -Ornegin PostgreSQL  farkli farkli DB leri desteklemeyip hizli calismasi.
+
+
 ![PDO Destekledigi Databaseler](https://www.yucelalkan.com/uploads/28_php_pdo_veritabanlari.png)
